@@ -130,7 +130,7 @@
        -Purdue University
        -Major in CNIT
        -minhduypham0210@gmail.com
-       -https://github.com/damien7749
+       -https://github.com/minhdamienpham
     
     👨🏻‍💼Max Li
        -Purdue University
