@@ -1,4 +1,4 @@
-# ⚡2021 Purdue AgIoT Project by TEAM_THOMAS⚡
+# ⚡Purdue University CNIT 390 Fall 21 IoT Senior Project⚡
 <hr>
 
 📑 *Project Title*
