@@ -1,4 +1,4 @@
-# ⚡Purdue University CNIT 390 Fall 21 IoT Senior Project⚡
+# ⚡Purdue University CNIT 390 Fall 21 Senior Project⚡
 <hr>
 
 📑 *Project Title*
